@@ -1,0 +1,17 @@
++incdir+../../../src/vp/include
+../../../src/vp/vxu/modalu.sv
+../../../src/vp/vxu/modmul.sv
+../../../src/vp/vxu/halfred.sv
+../../../src/vp/vxu/mul64.sv
+../../../src/vp/vxu/vxu_rfbank.sv
+../../../src/vp/vxu/vxu_lane.sv
+../../../src/vp/vxu/vxu_top.sv
+../../../src/vp/iconn/iconn_mux.sv
+../../../src/vp/iconn/iconn_shuffle_reverse.sv
+../../../src/vp/iconn/iconn_shuffle.sv
+../../../src/vp/iconn/iconn_smaller_selector.sv
+../../../src/vp/iconn/iconn_upper_selector.sv
+../../../src/vp/iconn/iconn_top.sv
+../../../src/vp/ntt/ntt_fsm.sv
+../../../src/vp/ntt/ntt_swap.sv
+vxu_top_tb.sv

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_noaxilite_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="\$unit_addr_gen_sv_436222492 " />
+            <top_module name="glbl" />
+            <top_module name="op_type_t" />
+            <top_module name="top_noaxilite_tb" />
+            <top_module name="vcomponents" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,144.001 ns"></ZoomEndTime>
+      <Cursor1Time time="86.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="239"></NameColumnWidth>
+      <ValueColumnWidth column_width="275"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="36" />
+   <wvobject type="logic" fp_name="/top_noaxilite_tb/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/top_noaxilite_tb/rst_n">
+      <obj_property name="ElementShortName">rst_n</obj_property>
+      <obj_property name="ObjectShortName">rst_n</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_spm/i_axi_wr_en">
+      <obj_property name="ElementShortName">i_axi_wr_en</obj_property>
+      <obj_property name="ObjectShortName">i_axi_wr_en</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_spm/i_axi_en">
+      <obj_property name="ElementShortName">i_axi_en</obj_property>
+      <obj_property name="ObjectShortName">i_axi_en</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_spm/i_axi_addr">
+      <obj_property name="ElementShortName">i_axi_addr[63:0]</obj_property>
+      <obj_property name="ObjectShortName">i_axi_addr[63:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_spm/i_axi_wr_data">
+      <obj_property name="ElementShortName">i_axi_wr_data[511:0]</obj_property>
+      <obj_property name="ObjectShortName">i_axi_wr_data[511:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_spm/o_axi_rd_data">
+      <obj_property name="ElementShortName">o_axi_rd_data[511:0]</obj_property>
+      <obj_property name="ObjectShortName">o_axi_rd_data[511:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_axi_data_wr_top/wr_rdaddr">
+      <obj_property name="ElementShortName">wr_rdaddr[63:0]</obj_property>
+      <obj_property name="ObjectShortName">wr_rdaddr[63:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_axi_data_wr_top/wr_rddata">
+      <obj_property name="ElementShortName">wr_rddata[511:0]</obj_property>
+      <obj_property name="ObjectShortName">wr_rddata[511:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_axi_data_wr_top/wr_rden">
+      <obj_property name="ElementShortName">wr_rden</obj_property>
+      <obj_property name="ObjectShortName">wr_rden</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st1_sel">
+      <obj_property name="ElementShortName">st1_sel</obj_property>
+      <obj_property name="ObjectShortName">st1_sel</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st1_wdata">
+      <obj_property name="ElementShortName">st1_wdata[67:0]</obj_property>
+      <obj_property name="ObjectShortName">st1_wdata[67:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st1_wen">
+      <obj_property name="ElementShortName">st1_wen</obj_property>
+      <obj_property name="ObjectShortName">st1_wen</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st1_waddr">
+      <obj_property name="ElementShortName">st1_waddr[11:0]</obj_property>
+      <obj_property name="ObjectShortName">st1_waddr[11:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st1_raddr">
+      <obj_property name="ElementShortName">st1_raddr[11:0]</obj_property>
+      <obj_property name="ObjectShortName">st1_raddr[11:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st1_rdata">
+      <obj_property name="ElementShortName">st1_rdata[271:0]</obj_property>
+      <obj_property name="ObjectShortName">st1_rdata[271:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st2_sel">
+      <obj_property name="ElementShortName">st2_sel</obj_property>
+      <obj_property name="ObjectShortName">st2_sel</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st2_wdata">
+      <obj_property name="ElementShortName">st2_wdata[271:0]</obj_property>
+      <obj_property name="ObjectShortName">st2_wdata[271:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st2_wen">
+      <obj_property name="ElementShortName">st2_wen</obj_property>
+      <obj_property name="ObjectShortName">st2_wen</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st2_waddr">
+      <obj_property name="ElementShortName">st2_waddr[10:0]</obj_property>
+      <obj_property name="ObjectShortName">st2_waddr[10:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st2_raddr">
+      <obj_property name="ElementShortName">st2_raddr[10:0]</obj_property>
+      <obj_property name="ObjectShortName">st2_raddr[10:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st2_rdata">
+      <obj_property name="ElementShortName">st2_rdata[271:0]</obj_property>
+      <obj_property name="ObjectShortName">st2_rdata[271:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st3_sel">
+      <obj_property name="ElementShortName">st3_sel</obj_property>
+      <obj_property name="ObjectShortName">st3_sel</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st3_wdata">
+      <obj_property name="ElementShortName">st3_wdata[0:3][63:0]</obj_property>
+      <obj_property name="ObjectShortName">st3_wdata[0:3][63:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st3_wen">
+      <obj_property name="ElementShortName">st3_wen</obj_property>
+      <obj_property name="ObjectShortName">st3_wen</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st3_waddr">
+      <obj_property name="ElementShortName">st3_waddr[6:0]</obj_property>
+      <obj_property name="ObjectShortName">st3_waddr[6:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st3_raddr">
+      <obj_property name="ElementShortName">st3_raddr[1:0]</obj_property>
+      <obj_property name="ObjectShortName">st3_raddr[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/st3_rdata">
+      <obj_property name="ElementShortName">st3_rdata[8191:0]</obj_property>
+      <obj_property name="ObjectShortName">st3_rdata[8191:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_spm/i_encode_wr_en">
+      <obj_property name="ElementShortName">i_encode_wr_en</obj_property>
+      <obj_property name="ObjectShortName">i_encode_wr_en</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_spm/i_encode_wr_addr">
+      <obj_property name="ElementShortName">i_encode_wr_addr[13:0]</obj_property>
+      <obj_property name="ObjectShortName">i_encode_wr_addr[13:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_spm/i_encode_wr_data">
+      <obj_property name="ElementShortName">i_encode_wr_data[8191:0]</obj_property>
+      <obj_property name="ObjectShortName">i_encode_wr_data[8191:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/encode_wr_addr">
+      <obj_property name="ElementShortName">encode_wr_addr[13:0]</obj_property>
+      <obj_property name="ObjectShortName">encode_wr_addr[13:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/encode_wr_valid">
+      <obj_property name="ElementShortName">encode_wr_valid</obj_property>
+      <obj_property name="ObjectShortName">encode_wr_valid</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/u_controller/u_st3_rd_cnt/rst_n">
+      <obj_property name="ElementShortName">rst_n</obj_property>
+      <obj_property name="ObjectShortName">rst_n</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/u_controller/u_st3_rd_cnt/aft_st_raddr">
+      <obj_property name="ElementShortName">aft_st_raddr[1:0]</obj_property>
+      <obj_property name="ObjectShortName">aft_st_raddr[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/top_noaxilite_tb/h2_top_no_axilite_inst/u_encoder_top/u_controller/u_st3_rd_cnt/rd_cnt">
+      <obj_property name="ElementShortName">rd_cnt[1:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_cnt[1:0]</obj_property>
+   </wvobject>
+</wave_config>

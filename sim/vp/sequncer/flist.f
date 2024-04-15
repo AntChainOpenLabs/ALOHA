@@ -1,0 +1,11 @@
++incdir+../../../src/vp/include
+../../../src/vp/sequncer/expander.v
+../../../src/vp/sequncer/inst_rom.v
+../../../src/vp/sequncer/op_queues.v
+../../../src/vp/sequncer/queue_wrapper.v
+../../../src/vp/sequncer/seq_top.v
+../../../src/vp/sequncer/sync_fifo.v
+../../../src/vp/sequncer/two_port_ram_fwft.v
+../../../src/vp/sequncer/two_port_ram.v
+../../../src/vp/util/gnrl_dff.v
+seq_top_tb.sv

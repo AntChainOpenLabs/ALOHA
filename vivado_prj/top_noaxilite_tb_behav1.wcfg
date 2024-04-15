@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_noaxilite_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="\$unit_addr_gen_sv_436222492 " />
+            <top_module name="glbl" />
+            <top_module name="op_type_t" />
+            <top_module name="top_noaxilite_tb" />
+            <top_module name="vcomponents" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1,439.227310 us"></ZoomStartTime>
+      <ZoomEndTime time="1,454.548539 us"></ZoomEndTime>
+      <Cursor1Time time="1,451.995000 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="239"></NameColumnWidth>
+      <ValueColumnWidth column_width="279"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="0" />
+</wave_config>
